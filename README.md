@@ -89,6 +89,12 @@
   <img src="https://nirzak-streak-stats.vercel.app/?user=Senith-Janindu&theme=dark&hide_border=false" alt="GitHub Streak" />
 </div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Senith-Janindu/Senith-Janindu/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Senith-Janindu/Senith-Janindu/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Senith-Janindu/Senith-Janindu/output/github-snake.svg" />
+</picture>
+
 ---
 
 ## 🌐 Connect with Me
